@@ -15,5 +15,9 @@ week 2:- Went through the pytorch tutorials and learned applying regression mode
 Due to high academic commitments including 5 quizzes and few assignments of tech team and PORs last 2 weeks. I  couldn't cope up with the current weeks' material but would surely be coming insync by the end of this week.
 
 week 3:- Read the whole CNN module and implemented it in jupyter notebook
+
+
 week 4:- Learned about GANs and its implementation using pytorch
+
+
 week 5:- Went through the ESRGAN paper an trying to implement it.
